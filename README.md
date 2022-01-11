@@ -1,1 +1,1 @@
-core_nlp_sentiments
+Use RNTN to determine sentiments for phrases. Interface to PKSG.
